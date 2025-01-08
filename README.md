@@ -66,15 +66,15 @@ Voici des exemples de visualisations générées :
 
 ### Graphique Principal
 
-![Graphique Principal](screenshots/graphique_principal.png)
+![Graphique Principal](Graph.PNG)
 
 ### Carte Interactive
 
-![Carte Interactive](screenshots/carte_interactive.png)
+![Carte Interactive](Carte.PNG)
 
 ### Clustering des Énergies Renouvelables
 
-![Clustering](screenshots/clustering.png)
+![Clustering](Capture.PNG)
 
 ## Instructions
 
